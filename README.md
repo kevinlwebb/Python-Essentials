@@ -4,13 +4,20 @@
 Python 3 Installation
 <br>https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/
 
+Open command line / terminal and download the repository
+<br>`git clone https://github.com/kevinlwebb/Python-Essentials.git`
+<br>(You can also manually download this repository by clicking "Download Zip")
+
+Change directory to the downloaded repository
+<br>`cd Python-Essentials`
+
 Install needed Python libraries
 <br>`pip install -r requirements.txt`
 
 If pip is not installed, follow these instructions
 <br>https://www.w3schools.com/python/python_pip.asp
 
-Run jupter notebook from command line
+Run jupter notebook from command line / terminal
 <br>`jupyter notebook`
 
 Select any of the .ipynb files
