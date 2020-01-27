@@ -2,16 +2,16 @@
 
 ## Set up
 Python 3 Installation
-https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/
+<br>https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/
 
 Install needed Python libraries
-`pip install -r requirements.txt`
+<br>`pip install -r requirements.txt`
 
 If pip is not installed, follow these instructions
-https://www.w3schools.com/python/python_pip.asp
+<br>https://www.w3schools.com/python/python_pip.asp
 
 Run jupter notebook from command line
-`jupyter notebook`
+<br>`jupyter notebook`
 
 Select any of the .ipynb files
 
